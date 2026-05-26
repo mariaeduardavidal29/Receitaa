@@ -132,10 +132,7 @@ th {
 }
 
 td {
-    padding-left: 16px;
-    font-weight: 700;
-    color: #854632;
-    line-height: 150%;
+  
 }
 tr + tr th,
 tr + tr td {
